@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+title: Tools List
+description: Some tools writen by me
+show_downloads: false
+google_analytics: "UA-83885261-3"
+github:
+    repository_url: false
+    owner_url: http://github.com/virink
