@@ -1,11 +1,30 @@
+# Virink's Tools List
+
 ## Summary
 
 - **Alfred Workflow**
   - [Switch DNS](#switch-dns) This is an useful workflow for switch your DNS.
-- **CTF**
+- **CTF & Pentest**
   - [Hashpow](#hashpow) Fuck the hash proof of work for ctfer
+  - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
 
 ## Tools List
+
+### Reverse Shell
+
+[Source Code](https://github.com/virink/reverse-shell)
+
+Easy to remember reverse shell that should work on most Unix-like systems.
+
+[https://resh.now.sh/](https://resh.now.sh/)
+
+Example: [https://resh.now.sh/localhost:1337](https://resh.now.sh/localhost:1337)
+
+*Luke Childs didn't accept PR#15, so I I made a new one*
+
+**Reference**
+> https://github.com/Lz1y/reverse-shell
+> > https://github.com/lukechilds/reverse-shell
 
 ### Switch DNS
 
@@ -25,6 +44,8 @@ Default DNS:
 You can add your custom DNS Server for your work!
 
 ### Hashpow
+
+[Source Code](https://github.com/virink/hashpow)
 
 [Download 23M](http://virzz-img.dongzt.cn/tools/ctf/hashpow.tar.gz)
 
