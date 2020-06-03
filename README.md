@@ -45,7 +45,9 @@ You can add your custom DNS Server for your work!
 
 ### Hashpow
 
-[Source Code](https://github.com/virzz/hashpow)
+[Source Code](https://github.com/virink/hashpow)
+
+[https://hashpow.now.sh/](https://hashpow.now.sh/)
 
 [Download 23M](http://virzz-img.dongzt.cn/tools/ctf/hashpow.tar.gz)
 
