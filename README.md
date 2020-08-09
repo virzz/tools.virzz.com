@@ -7,8 +7,28 @@
 - **CTF & Pentest**
   - [Hashpow](#hashpow) Fuck the hash proof of work for ctfer
   - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
+  - [JWTTool](#jwttool) A jwt tool with Print/Crack/Modify.
 
 ## Tools List
+
+### JWTTool
+
+~~[Source Code](#)~~
+
+A jwt tool with Print/Crack/Modify
+
+[![](https://img.shields.io/badge/Download%2010M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/jwttool.zip)
+[![](https://img.shields.io/badge/Download%2010M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/jwt1.0)
+
+**File List:**
+
+- SHA256.txt
+- jwttool-darwin-386
+- jwttool-darwin-amd64
+- jwttool-linux-386
+- jwttool-linux-amd64
+- jwttool-windows-386.exe
+- jwttool-windows-amd64.exe
 
 ### Reverse Shell
 
@@ -28,7 +48,8 @@ Example: [https://resh.now.sh/localhost:1337](https://resh.now.sh/localhost:1337
 
 ### Switch DNS
 
-[Download 1.8 M](http://virzz-img.dongzt.cn/tools/alfredworkflow/SwitchDNS.alfredworkflow)
+[![](https://img.shields.io/badge/Download%201.8M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/alfredworkflow/SwitchDNS.alfredworkflow)
+
 
 This is an useful workflow for switch your DNS.
 
@@ -47,9 +68,9 @@ You can add your custom DNS Server for your work!
 
 [Source Code](https://github.com/virink/hashpow)
 
-[https://hashpow.now.sh/](https://hashpow.now.sh/)
+[![](https://img.shields.io/badge/Download%2023M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/hashpow.tar.gz)
 
-[Download 23M](http://virzz-img.dongzt.cn/tools/ctf/hashpow.tar.gz)
+[https://hashpow.now.sh/](https://hashpow.now.sh/)
 
 Fuck the hash proof of work for ctfer
 
