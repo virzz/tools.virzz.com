@@ -8,8 +8,28 @@
   - [Hashpow](#hashpow) Fuck the hash proof of work for ctfer
   - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
   - [JWTTool](#jwttool) A jwt tool with Print/Crack/Modify.
+  - [GitHack](#githack) A `.git` folder disclosure exploit.
 
 ## Tools List
+
+### GitHack
+
+~~[Source Code](#)~~
+
+A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
+
+[![](https://img.shields.io/badge/Download%2010M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/githack.zip)
+[![](https://img.shields.io/badge/Download%2010M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/jwt1.0)
+
+**File List:**
+
+- SHA256.txt
+- githack-darwin-386
+- githack-darwin-amd64
+- githack-linux-386
+- githack-linux-amd64
+- githack-windows-386.exe
+- githack-windows-amd64.exe
 
 ### JWTTool
 
