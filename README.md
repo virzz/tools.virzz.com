@@ -18,8 +18,8 @@
 
 A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
 
-[![](https://img.shields.io/badge/Download%2010M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/githack.zip)
-[![](https://img.shields.io/badge/Download%2010M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/jwt1.0)
+[![](https://img.shields.io/badge/Download%2018M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/githack.zip)
+[![](https://img.shields.io/badge/Download%2018M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/githack.0)
 
 **File List:**
 
