@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#main-content {
+    width: inherit;
+}
+
+header h1 {
+    width: inherit;
+    font-size: 64px;
+}
+
+header a.button {
+    position: relative;
+    margin-top: -120px;
+    float: right;
+    top: inherit;
+    right: inherit;
+}
+
+#button a:nth-child(2) {
+    right: 210px;
+}
+
+a.button small {
+    font-size: 14px;
+}

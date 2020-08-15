@@ -1,6 +1,4 @@
-# Virink's Tools List
-
-## Summary
+# Summary
 
 - **Alfred Workflow**
   - [Switch DNS](#switch-dns) This is an useful workflow for switch your DNS.
@@ -10,9 +8,9 @@
   - [JWTTool](#jwttool) A jwt tool with Print/Crack/Modify.
   - [GitHack](#githack) A `.git` folder disclosure exploit.
 
-## Tools List
+# Tools List
 
-### GitHack
+## GitHack
 
 ~~[Source Code](#)~~
 
@@ -31,7 +29,7 @@ A Git source leak exploit tool that restores the entire Git repository, includin
 - githack-windows-386.exe
 - githack-windows-amd64.exe
 
-### JWTTool
+## JWTTool
 
 ~~[Source Code](#)~~
 
@@ -50,7 +48,7 @@ A jwt tool with Print/Crack/Modify
 - jwttool-windows-386.exe
 - jwttool-windows-amd64.exe
 
-### Reverse Shell
+## Reverse Shell
 
 [Source Code](https://github.com/virink/reverse-shell)
 
@@ -66,7 +64,7 @@ Example: [https://resh.now.sh/localhost:1337](https://resh.now.sh/localhost:1337
 > https://github.com/Lz1y/reverse-shell
 > > https://github.com/lukechilds/reverse-shell
 
-### Switch DNS
+## Switch DNS
 
 [![](https://img.shields.io/badge/Download%201.8M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/alfredworkflow/SwitchDNS.alfredworkflow)
 
@@ -84,7 +82,7 @@ Default DNS:
 
 You can add your custom DNS Server for your work!
 
-### Hashpow
+## Hashpow
 
 [Source Code](https://github.com/virink/hashpow)
 
