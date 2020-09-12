@@ -7,8 +7,27 @@
   - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
   - [JWTTool](#jwttool) A jwt tool with Print/Crack/Modify.
   - [GitHack](#githack) A `.git` folder disclosure exploit.
+  - [Gopher](#gopher) A tool for generate Gopher exp
 
 # Tools List
+
+## Gopher
+
+~~[Source Code](#)~~
+
+A tool for generate Gopher exp
+
+[![](https://img.shields.io/badge/Download%207M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/gopher.zip)
+[![](https://img.shields.io/badge/Download%207M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/gopher1.0)
+
+**File List:**
+
+- SHA256.txt
+- gopher-darwin-amd64
+- gopher-linux-386
+- gopher-linux-amd64
+- gopher-windows-386.exe
+- gopher-windows-amd64.exe
 
 ## GitHack
 
@@ -17,7 +36,7 @@
 A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
 
 [![](https://img.shields.io/badge/Download%2018M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/githack.zip)
-[![](https://img.shields.io/badge/Download%2018M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/githack.0)
+[![](https://img.shields.io/badge/Download%2018M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/githack1.0)
 
 **File List:**
 
