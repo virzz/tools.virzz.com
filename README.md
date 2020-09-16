@@ -17,8 +17,8 @@
 
 A tool for generate Gopher exp
 
-[![](https://img.shields.io/badge/Download%207M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/gopher.zip)
-[![](https://img.shields.io/badge/Download%207M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/gopher1.0)
+[![](https://img.shields.io/badge/Download%208M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/gopher.zip)
+[![](https://img.shields.io/badge/Download%208M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/gopher1.1)
 
 **File List:**
 
