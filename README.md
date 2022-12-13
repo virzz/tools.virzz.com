@@ -1,15 +1,27 @@
 # Summary
 
+- **All in Virzz**
+  - [ ] ~~[Virzz](#virzz) The Cyber Swiss Army Knife for terminal.~~
+  - [ ] ~~[Platform](#platform) The Cyber Swiss Army Knife for platform.~~
 - **Alfred Workflow**
   - [Switch DNS](#switch-dns) This is an useful workflow for switch your DNS.
 - **CTF & Pentest**
-  - [Hashpow](#hashpow) Fuck the hash proof of work for ctfer
-  - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
   - [JWTTool](#jwttool) A jwt tool with Print/Crack/Modify.
   - [GitHack](#githack) A `.git` folder disclosure exploit.
   - [Gopher](#gopher) A tool for generate Gopher exp
+  - [Parser](#parser) A tool for parse some files
+  - [Hashpow](#hashpow) Fuck the hash proof of work for ctfer
+  - [Reverse Shell](#reverse-shell) Easy to remember reverse shell.
 
 # Tools List
+
+## Parser
+
+~~[Source Code](#)~~
+
+A tool for parse some files
+
+[![](https://img.shields.io/badge/Download%2015.42M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/parser.zip)
 
 ## Gopher
 
@@ -17,17 +29,8 @@
 
 A tool for generate Gopher exp
 
-[![](https://img.shields.io/badge/Download%208M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/gopher.zip)
-[![](https://img.shields.io/badge/Download%208M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/gopher1.1)
+[![](https://img.shields.io/badge/Download%2010.7M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/gopher.zip)
 
-**File List:**
-
-- SHA256.txt
-- gopher-darwin-amd64
-- gopher-linux-386
-- gopher-linux-amd64
-- gopher-windows-386.exe
-- gopher-windows-amd64.exe
 
 ## GitHack
 
@@ -35,18 +38,8 @@ A tool for generate Gopher exp
 
 A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
 
-[![](https://img.shields.io/badge/Download%2018M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/githack.zip)
-[![](https://img.shields.io/badge/Download%2018M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/githack1.0)
+[![](https://img.shields.io/badge/Download%2016M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/githack.zip)
 
-**File List:**
-
-- SHA256.txt
-- githack-darwin-386
-- githack-darwin-amd64
-- githack-linux-386
-- githack-linux-amd64
-- githack-windows-386.exe
-- githack-windows-amd64.exe
 
 ## JWTTool
 
@@ -54,30 +47,21 @@ A Git source leak exploit tool that restores the entire Git repository, includin
 
 A jwt tool with Print/Crack/Modify
 
-[![](https://img.shields.io/badge/Download%2010M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/jwttool.zip)
-[![](https://img.shields.io/badge/Download%2010M-Github-blue)](https://github.com/virzz/tools.virzz.com/releases/tag/jwt1.0)
+[![](https://img.shields.io/badge/Download%209.88M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/jwttool.zip)
 
-**File List:**
-
-- SHA256.txt
-- jwttool-darwin-386
-- jwttool-darwin-amd64
-- jwttool-linux-386
-- jwttool-linux-amd64
-- jwttool-windows-386.exe
-- jwttool-windows-amd64.exe
 
 ## Reverse Shell
 
-[Source Code](https://github.com/virink/reverse-shell)
+[Source Code](https://github.com/virzz/reverse-shell)
 
 Easy to remember reverse shell that should work on most Unix-like systems.
 
-[https://resh.now.sh/](https://resh.now.sh/)
+- [https://resh.now.sh/](https://resh.now.sh/)
+- [https://resh.vercel.app/](https://resh.vercel.app/)
 
 Example: [https://resh.now.sh/localhost:1337](https://resh.now.sh/localhost:1337)
 
-*Luke Childs didn't accept PR#15, so I I made a new one*
+*Luke Childs didn't accept PR#15, so I made a new one*
 
 **Reference**
 > https://github.com/Lz1y/reverse-shell
@@ -85,7 +69,7 @@ Example: [https://resh.now.sh/localhost:1337](https://resh.now.sh/localhost:1337
 
 ## Switch DNS
 
-[![](https://img.shields.io/badge/Download%201.8M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/alfredworkflow/SwitchDNS.alfredworkflow)
+[![](https://img.shields.io/badge/Download%201.8M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/alfredworkflow/SwitchDNS.alfredworkflow)
 
 
 This is an useful workflow for switch your DNS.
@@ -103,23 +87,33 @@ You can add your custom DNS Server for your work!
 
 ## Hashpow
 
-[Source Code](https://github.com/virink/hashpow)
-
-[![](https://img.shields.io/badge/Download%2023M-Qiniu-blue)](http://virzz-img.dongzt.cn/tools/ctf/hashpow.tar.gz)
-
-[https://hashpow.now.sh/](https://hashpow.now.sh/)
-
 Fuck the hash proof of work for ctfer
 
-**File List:**
+### Newer (Rebuild Just Cli)
 
-- SHA256.txt
-- SHA256_Package.txt
-- hashpow-darwin-386
-- hashpow-darwin-amd64
-- hashpow-linux-386
-- hashpow-linux-amd64
-- hashpow-windows-386.exe
-- hashpow-windows-amd64.exe
+~~[Source Code](#)~~
 
-I packed by upx, if you want to unpack, just run `upx -d *`
+[![](https://img.shields.io/badge/Download%207.72M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/hashpow.zip)
+
+### Older
+
+[Source Code](https://github.com/virzz/hashpow)
+
+[https://hashpow.vercel.app/](https://hashpow.vercel.app/)
+
+Usage: 
+```
+Usage:
+request: /?c=[code]&t=[hash type]&pf=[prefix string]&sf=[suffix sstring]&p=[pos]&r=[true]
+Params:
+- c [string] Code (**require**)
+- t [string] hash Type : md5 sha1 (**require**)
+- p [int] starting Position of hash
+- pf [string] text Prefix
+- sf [string] text Suffix
+- r [boolean] Raw resopnse
+eg: /?c=abcdef&t=md5
+    /?c=abcdef&t=md5&pf=v&sf=k&p=6
+```
+
+
