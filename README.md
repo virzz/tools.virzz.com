@@ -1,7 +1,7 @@
 # Summary
 
 - **All in Virzz**
-  - [ ] ~~[Virzz](#virzz) The Cyber Swiss Army Knife for terminal.~~
+  - [God](#god) The Cyber Swiss Army Knife for terminal.
   - [ ] ~~[Platform](#platform) The Cyber Swiss Army Knife for platform.~~
 - **Alfred Workflow**
   - [Switch DNS](#switch-dns) This is an useful workflow for switch your DNS.
@@ -15,9 +15,20 @@
 
 # Tools List
 
+## God
+
+[Source Code](https://github.com/virzz/virzz)
+
+The Cyber Swiss Army Knife for terminal.
+
+### Install
+
+- `brew install virzz/virzz/god`
+- Download from [GitHub](https://github.com/virzz/virzz/releases/latest)
+
 ## Parser
 
-~~[Source Code](#)~~
+[Source Code](https://github.com/virzz/virzz/tree/master/modules/misc/parser)
 
 A tool for parse some files
 
@@ -25,7 +36,7 @@ A tool for parse some files
 
 ## Gopher
 
-~~[Source Code](#)~~
+[Source Code](https://github.com/virzz/virzz/tree/master/modules/web/gopher)
 
 A tool for generate Gopher exp
 
@@ -34,7 +45,7 @@ A tool for generate Gopher exp
 
 ## GitHack
 
-~~[Source Code](#)~~
+[Source Code](https://github.com/virzz/virzz/tree/master/modules/web/githack)
 
 A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
 
@@ -43,7 +54,7 @@ A Git source leak exploit tool that restores the entire Git repository, includin
 
 ## JWTTool
 
-~~[Source Code](#)~~
+[Source Code](https://github.com/virzz/virzz/tree/master/modules/web/jwttool)
 
 A jwt tool with Print/Crack/Modify
 
@@ -91,7 +102,7 @@ Fuck the hash proof of work for ctfer
 
 ### Newer (Rebuild Just Cli)
 
-~~[Source Code](#)~~
+[Source Code](https://github.com/virzz/virzz/tree/master/modules/crypto/hashpow)
 
 [![](https://img.shields.io/badge/Download%207.72M-Qiniu-blue)](http://virzz-img.ctfhub.com/tools/ctf/hashpow.zip)
 
